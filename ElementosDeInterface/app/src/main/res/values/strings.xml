@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ElementosDeInterface</string>
+    <string name="mainText">Minha Aplicação</string>
+    <string name="infoText">Clique abaixo para navegar em outra activity</string>
+    <string name="btnChangeActivity">Mudar Activity</string>
+    <string name="secondaryText">Bem-vindo a segunda Activity</string>
+    <string name="nomeText">Nome</string>
+    <string name="btnVoltar">Voltar</string>
+</resources>

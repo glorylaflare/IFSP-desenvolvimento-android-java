@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IncreaseAndDecrease</string>
+    <string name="tittle_text">Clique nos botões para aumentar ou diminuir o valor.</string>
+    <string name="increase_btn">Aumentar</string>
+    <string name="decrease_btn">Diminuir</string>
+</resources>

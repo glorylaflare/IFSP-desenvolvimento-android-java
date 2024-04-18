@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AlertDialogs</string>
+    <string name="btn_abrir">Abrir</string>
+    <string name="nome">Nome</string>
+    <string name="senha">Senha</string>
+    <string name="btn_dialog">Abrir dialog.xml</string>
+    <string name="title_text">AlertDialogs</string>
+    <string name="text_view_1">AlertDialog Padrão</string>
+    <string name="text_view_2">AlertDialog com arquivo xml</string>
+    <string name="btn_login">Entrar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="text_date">Selecione uma data\n</string>
+    <string name="text_time">Selecione uma hora</string>
+</resources>

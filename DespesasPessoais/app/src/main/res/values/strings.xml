@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DespesasPessoais</string>
+    <string name="inputUsario">Usuário</string>
+    <string name="inputSenha">Senha</string>
+    <string name="btnEntrar">Entrar</string>
+    <string name="btnCadastrar">Cadastre-se</string>
+    <string name="swtLembrar">Lembrar</string>
+    <string name="inputNome">Nome</string>
+    <string name="title_activity_movimentos">Movimentos</string>
+    <string name="action_logoff">Sair</string>
+    <string name="edtData">Data</string>
+    <string name="inputValor">Valor</string>
+    <string name="inputDescricao">Descrição</string>
+    <string name="btnSalvar">Salvar</string>
+</resources>

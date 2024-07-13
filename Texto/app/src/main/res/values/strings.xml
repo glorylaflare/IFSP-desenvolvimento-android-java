@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Texto</string>
+    <string name="info">Insira o texto abaixo</string>
+    <string name="salvar">Salvar</string>
+</resources>

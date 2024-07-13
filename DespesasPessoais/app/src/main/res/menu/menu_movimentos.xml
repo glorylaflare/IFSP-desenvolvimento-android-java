@@ -3,8 +3,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.example.despesaspessoais.Movimentos">
     <item
-        android:id="@+id/action_settings"
+        android:id="@+id/action_logoff"
         android:orderInCategory="100"
-        android:title="@string/action_settings"
-        app:showAsAction="never" />
+        android:icon="@drawable/ic_action_logoff"
+        android:title="@string/action_logoff"
+        app:showAsAction="always" />
 </menu>
